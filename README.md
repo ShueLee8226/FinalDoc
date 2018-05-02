@@ -4,10 +4,15 @@
 
 ### Team Memebers
 #### Abshir Ali (Support)
+  Help with the Html code and the java script login portal 
 #### Chinou Vang (Researcher)
+  Work together with the documentation, we have steps on how to create a public html on project 
 #### Mussie Asarat (Support)
+  Help collect the information and support the team and how to deployed 
 #### Shue Lee (Documentation)
+  Help document ours steps and how we did it 
 #### KongMeng Lee (Testing)
+  Help test out webpage and webserver
 #### Our Project Link(https://github.com/kml74123/Web-Server-Team/projects/2)
 
 
