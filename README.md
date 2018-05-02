@@ -49,3 +49,13 @@ Now you nanoed into your webpage script have some fun with it! but since you're 
 Step 8:
 Almost done! Now that you have your test script ready you are ready to deploy your test page! At the like at the top put https://sootsplash.csci2461.com/~(your own user)/
 
+#### On login page
+Can be found in https://sootsplash.csci2461.com/~kml74123/
+
+
+The username is: linuxstar
+
+
+The Password is: password
+- It should take you back to the orginal link for linuxstar
+
